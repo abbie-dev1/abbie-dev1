@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/ab_sithole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/abbie-sithole-1a840aa8/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ab_sithole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/abbie-sithole-1a840aa8/" height="30" width="35" /></a>
 <a href="https://www.linkedin.com/in/abbie-sithole-1a840aa8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abbie-sithole-1a840aa8/" height="30" width="40" /></a>
 <a href="https://twitter.com/Abbiedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbie_dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16907150/abbie-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16545643" height="30" width="35" /></a>

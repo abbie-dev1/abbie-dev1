@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,![image](https://user-images.githubusercontent.com/79112224/139143484-f46b5c20-9d0f-467c-a2f9-10f2fc8d7542.png) </h1>
+<h1 align="center">Hello 👋I'm Abbie Sithole,![image](https://user-images.githubusercontent.com/79112224/139143484-f46b5c20-9d0f-467c-a2f9-10f2fc8d7542.png) </h1>
 <h3 align="center">Software Developer Graduate, I have passion for learning and sharing my knowledge with others especially during team work</h3>
 <p align="center" align="left"> <a href="https://github.com/abbie-dev1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbie-dev1" alt="abbie-dev1" /></a> 
 </p>

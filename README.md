@@ -3,6 +3,7 @@
 <p align="center" align="left"> <a href="https://github.com/abbie-dev1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbie-dev1" alt="abbie-dev1" /></a> 
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ab_sithole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/abbie-sithole-1a840aa8/" height="30" width="35" /></a>

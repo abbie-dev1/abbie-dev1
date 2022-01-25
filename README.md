@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,I am Abbie Sithole!</h1>
+<h1 align="center">Hello 👋,I'm Abbie Sithole!</h1>
 <h3 align="center">I'm a Software Developer Graduate, I have passion for learning and sharing my knowledge with others especially during team work</h3>
 <p align="center" align="left"> <a href="https://github.com/abbie-dev1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbie-dev1" alt="abbie-dev1" /></a> 
 </p>

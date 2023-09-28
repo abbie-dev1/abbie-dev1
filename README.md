@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋,I'm Abbie Sithole!!</h1>
-<h3 align="center">I am a Junior Software Developer Team Lead, I have passion for learning and sharing my knowledge with others especially during team work</h3>
+<h3 align="center">I hold the position of Junior Software Development Team Lead, and I am deeply committed to continuous learning and fostering a culture of knowledge sharing within our team, particularly during collaborative endeavors.</h3>
 <p align="center" align="left"> <a href="https://github.com/abbie-dev1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbie-dev1" alt="abbie-dev1" /></a> 
 </p>
 

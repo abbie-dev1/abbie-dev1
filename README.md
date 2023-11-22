@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋,I'm Abbie Sithole!!</h1>
-<h3 align="center">I hold the position of Junior Software Development Team Lead, and I am deeply committed to continuous learning and fostering a culture of knowledge sharing within our team, particularly during collaborative endeavors.</h3>
+<h1 align="center">Hello, 👋I'm Abbie Sithole!!</h1>
+<h3 align="center">Experienced Software Developer skilled in MEAN stack, Angular, Node.js, Vue.js, PostgreSQL, MongoDB, and CI/CD. Proven record in web/mobile app development, REST APIs, and UI/UX design. Proficient in Git, Docker, and project management tools. Ready to tackle new challenges in software development.</h3>
 <p align="center" align="left"> <a href="https://github.com/abbie-dev1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbie-dev1" alt="abbie-dev1" /></a> 
 </p>
 
